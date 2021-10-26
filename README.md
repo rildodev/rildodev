@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on Personal projects
-
-
+- 🌱 I’m currently learning I am currently learning Web Development at RocketSeat
+- 📚 Graduating in Systems Analysis and Development
