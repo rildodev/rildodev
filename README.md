@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Web Development at RocketSeat
 - 📚 Graduating in Systems Analysis and Development
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rildodev&show_icons=true&theme=midnight-purple)
+![Anurag's GitHub stats](github_dark)
 
 
 [![Meu Perfil](https://img.shields.io/badge/Meu%20perfil-RocketSeat-blueviolet)](https://app.rocketseat.com.br/me/rildo-maciel-berto-da-silva-04330)
